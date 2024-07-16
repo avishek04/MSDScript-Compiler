@@ -1,6 +1,8 @@
 ## MSDScript Interpreter
 
-This is a C++ based scripting language interpreter which has it's own syntax that performs various complex operations and calculations.
+This is a C++ based scripting language interpreter which has it's own syntax that performs various complex operations and calculations.  
+  
+Project Owner: Avishek Choudhury
 
 ## Video Walkthrough
 
@@ -68,10 +70,14 @@ Interpreting the following expression should raise an exception because 5 is not
 
 ### MSDScript UI    
 The MSDScript interpreter includes a user-friendly graphical user interface (UI) developed with Qt, enhancing the overall user experience.
-The UI offers the following key features:
+The UI offers the following key features:  
 
 * Expression: Provides a text view where users can easily write and input expressions.
 * Interp Button: Includes "Interpret" button for executing the entered expression.
 * Pretty Print Button: Offers a "Print" button feature for displaying the interpreted result.
 * Resut: Provide a text view where user can see their interpretation and prints.
-* Reset: Includes a "Reset" feature that allows users to clear both the entered expression and any selected radio buttons.
+* Reset: Includes a "Reset" feature that allows users to clear both the entered expression and any selected radio buttons.  
+  
+Thank you for visiting! 
+  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avishekchoudhury/).
