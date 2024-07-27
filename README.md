@@ -1,10 +1,9 @@
 ## MSDScript Interpreter
-This is a C++ based scripting language interpreter which has it's own syntax that performs various complex operations and calculations.  
+This is a scripting language interpreter built using C++ that interprets the MSD Script language. MSD Script performs various complex operations and calculations. This project makes extensive use of OOPs.
   
-Project Owner: Avishek Choudhury
+Project Owner: Avishek Choudhury  
 
 Documentation: [MsdScript-Doc.pdf](https://github.com/user-attachments/files/16401700/MsdScript-Doc.pdf)
-
 
 ## Demo
 https://github.com/user-attachments/assets/1475faad-020f-465e-aae8-10759ca9775a
