@@ -3,6 +3,9 @@ This is a C++ based scripting language interpreter which has it's own syntax tha
   
 Project Owner: Avishek Choudhury
 
+Documentation: [MsdScript-Doc.pdf](https://github.com/user-attachments/files/16401700/MsdScript-Doc.pdf)
+
+
 ## Demo
 https://github.com/user-attachments/assets/1475faad-020f-465e-aae8-10759ca9775a
 
